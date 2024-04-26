@@ -38,7 +38,7 @@ That Payment PHP SDK includes 6 methods to process the payments:
 REQUIREMENTS
 ============
 
- * PHP: >=8.1.0
+ * PHP: >=8.0.0
  * guzzlehttp/guzzle: ~7.0
  * guzzlehttp/guzzle-services: ~1.0
  * monolog/monolog: ^2.7
@@ -47,7 +47,7 @@ REQUIREMENTS
 INSTALLATION
 ============
 
- * Run  `composer require maib/maibapi ^3.0`
+ * Run  `composer require cusursuz/maibapi`
 
 
 BEFORE USAGE
