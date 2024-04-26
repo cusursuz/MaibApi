@@ -3,17 +3,16 @@
   "type": "library",
   "description": "",
   "keywords": ["maib", "payment"],
-  "homepage": "https://github.com/indrivo",
+  "homepage": "https://github.com/cusursuz",
   "license": "MIT",
   "authors": [
     {
-      "name": "Golub Adrian",
-      "email": "adrian.golub@indrivo.com",
-      "homepage": "https://www.drupal.org/u/adriangolub"
+      "name": "Cusursuz Piotr",
+      "email": "cusursuz@gmail.com",
     }
   ],
   "require": {
-    "php": ">=8.1.0",
+    "php": ">=8.0.0",
     "guzzlehttp/guzzle": "~7.0",
     "guzzlehttp/guzzle-services": "~1.0"
   },
