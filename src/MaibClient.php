@@ -1,6 +1,6 @@
 <?php
 
-namespace Cusursuz\MaibApi;
+namespace Cusursuz\Maibapi;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
